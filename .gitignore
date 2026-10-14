@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+**/venv/
+**/.venv/
+.sf/
+__pycache__/
+*.py[cod]
+vector_store/
+chroma_db/
+**/vector_store/
+**/chroma_db/
