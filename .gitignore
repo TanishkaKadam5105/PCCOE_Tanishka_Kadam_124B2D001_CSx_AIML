@@ -17,3 +17,4 @@ chroma_db/
 venv/
 .sf/
 Video/*.mp4
+!Video/124B2D001_Tanishka_Kadam.mp4
