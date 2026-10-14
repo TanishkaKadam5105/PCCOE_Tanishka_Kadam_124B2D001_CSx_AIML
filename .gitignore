@@ -12,3 +12,8 @@ vector_store/
 chroma_db/
 **/vector_store/
 **/chroma_db/
+
+.env
+venv/
+.sf/
+Video/*.mp4
